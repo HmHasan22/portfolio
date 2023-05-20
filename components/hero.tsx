@@ -40,7 +40,7 @@ const Hero = () => {
           >{`> Front-end developer `}</p>
           <a
             className={`mt-[40px] w-[200px] h-[50px] flex items-center justify-center rounded-[16px]  border border-white border-solid font-fira_code text-white text-xl`}
-            href='#project'
+            href='#projects'
           >
             Prosjekter
           </a>
